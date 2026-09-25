@@ -534,6 +534,10 @@ class SamsungSmartRemoteCard extends HTMLElement {
           ha-card {
             overflow: hidden;
             border-radius: 22px;
+            background: #101112;
+            color: white;
+            max-width: 430px;
+            margin: 0 auto;
           }
 
 
@@ -542,21 +546,16 @@ class SamsungSmartRemoteCard extends HTMLElement {
             box-sizing: border-box;
 
             width: 100%;
-            max-width: 390px;
+            max-width: none;
 
-            margin: 0 auto;
+            margin: 0;
 
             padding:
               28px
               clamp(18px, 7vw, 34px)
               22px;
 
-            background:
-              linear-gradient(
-                145deg,
-                #303030,
-                #181818
-              );
+            background: #101112;
 
             color: white;
 
@@ -1973,5 +1972,5 @@ if (
 
 
 console.info(
-  "Samsung Smart Remote Card v0.0.15 loaded"
+  "Samsung Smart Remote Card v0.0.16 loaded"
 );
