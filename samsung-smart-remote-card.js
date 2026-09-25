@@ -533,6 +533,7 @@ class SamsungSmartRemoteCard extends HTMLElement {
 
           ha-card {
             overflow: hidden;
+            border-radius: 22px;
           }
 
 
