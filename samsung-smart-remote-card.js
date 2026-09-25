@@ -1973,5 +1973,5 @@ if (
 
 
 console.info(
-  "Samsung Smart Remote Card v0.0.14 loaded"
+  "Samsung Smart Remote Card v0.0.15 loaded"
 );
