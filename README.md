@@ -2,9 +2,9 @@
 
 Samsung-style Lovelace remote card for Home Assistant. Companion frontend for the Samsung Smart Remote integration.
 
-**Current stable version: v0.0.15**
+**Current stable version: v0.0.16**
 
-The v0.0.14 card was validated both on an existing Home Assistant installation and through a clean HACS installation on a second Home Assistant installation. v0.0.15 retains the same controls and behavior and adds the Sonos Remote-style 22px rounded outer card edges.
+The v0.0.14 card was validated both on an existing Home Assistant installation and through a clean HACS installation on a second Home Assistant installation. v0.0.16 retains the same controls and behavior and aligns the complete outer card shell with the Sonos Remote: 22px rounded edges, a full-width dark card surface, and the same 430px maximum card width.
 
 ## Features
 
